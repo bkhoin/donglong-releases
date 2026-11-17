@@ -3,6 +3,30 @@
     <channel>
         <title>DongLong</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Tue, 17 Nov 2026 01:14:40 -0600</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>DongLong 0.5.0</h2>
+<p><b>Take notes, let AI catch the to-dos as you talk</b>, all on your Mac.</p>
+<ul>
+<li><b>Live notes:</b> while you record, DongLong collects to-dos (with who), decisions and key points every minute or so. Read the to-dos back before you press Stop.</li>
+<li><b>My Notes:</b> type your own notes while recording or in the L10 (a Notes panel on the right, with Bookmark at the top). Each line remembers when you typed it.</li>
+<li><b>Edit anything with a double-click:</b> your notes, bookmarks, L10 items, and the AI summary. Add a missed to-do to the summary and send it to To-Dos.</li>
+<li><b>Summary styles:</b> General, Team meeting, 1:1, Client call, Interview. Every style still gives to-dos.</li>
+<li><b>Share:</b> L10 recordings are shared with your teammate as before. Your other recordings now stay on your Mac until you press Share. Or copy or save one page with the parts you pick.</li>
+<li><b>Fixes:</b> the To-Dos score counts what you finished, right-click Mark Done works, Rocks have a notes button, and a crash in the floating window is fixed.</li>
+</ul>
+<p>Help → How DongLong Stays Private explains what stays on your Mac. Audio never leaves it.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/bkhoin/donglong-releases/main/DongLong-0.5.0.dmg" length="17585889" type="application/octet-stream" sparkle:edSignature="29zxtpJ9Tq5qnbwDU1oSTr7Xz1PwccNFm3r4yGhHRXBdt5y0PPjZ6GTOWDQE8w9rPszKNH06Lf1dPt7XTKWUCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/bkhoin/donglong-releases/main/DongLong121-111.delta" sparkle:deltaFrom="111" length="1435066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XvBxViaLk5uXY/QLN2pvHfcZpqwYYWwwlg4ojM8L42NvO3KV6I0rDlZpBLPzhGe19IURRJm38JdQSvhQ2qe3CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Mon, 16 Nov 2026 15:26:52 -0600</pubDate>
             <sparkle:version>111</sparkle:version>
